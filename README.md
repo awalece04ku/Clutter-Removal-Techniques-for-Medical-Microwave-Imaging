@@ -1,4 +1,4 @@
-# Clutter-Removal-Techniques-for-Medical-Microwave-Imaging
+# Clutter-Removal-Techniques
 This repository contains supplementary materials, including detailed bibliometric analysis, MATLAB .fig, and a code file for visualization.
 Currently, there are three files in this repository. 
 
