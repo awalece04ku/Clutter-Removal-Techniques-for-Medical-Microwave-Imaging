@@ -9,9 +9,14 @@ Currently, there are three files in this repository.
 For further information, please contact. 
 
 Dr. Md Abdul Awal
+
 Post-doctoral Research Fellow
+
 School of Electrical Engineering and Computer Science 
+
 The University of Queensland, Australia
+
 Email: m.awal@uq.edu.au
+
 md.abdul.awal.uq@gmail.com
 
